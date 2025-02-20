@@ -1,17 +1,17 @@
 //class
-// const user = {
-//     id: 1,
-//     profile: {
-//       name: 'Alice',
-//       age: 25,
-//     },
-//   };
+const user = {
+    id: 1,
+    profile: {
+      name: 'Anu',
+      age: 25,
+    },
+  };
   
-//   const {
-//     profile: { name, age },
-//   } = user;
-//   console.log(name); 
-//   console.log(age);  
+  const {
+    profile: { name, age },
+  } = user;
+  console.log(name); 
+  console.log(age);  
   
   //Array
 const points = [1, [2, 3], 4];
